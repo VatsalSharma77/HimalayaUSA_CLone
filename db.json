@@ -1,0 +1,620 @@
+{"data" :[
+    {
+        "id": 1,
+        "title": "Ashwagandha Organic Gummies",
+        "price": 23.99,
+        "image":"src/assets/p1.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract prov ides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },
+    {
+        "id": 2,
+        "title": "Ashwagandha+ Focus",
+        "price": 25.99,
+        "image":"src/assets/p2.webp",
+        "body":"Discover the cognitive strength of Ashwagandha + Focus to help support your memory and concentration. Himalaya combines the adaptogenic power of Ashwagandha with Bacopa, Rosemary and Green Tea Extract to help you focus and help support your clarity of thought and recall.*",
+        "Use":"Adults take 2 capsules once daily."
+    },
+    {
+        "id": 3,
+        "title": "Ashwagandha+ Immune",
+        "price": 25.99,
+        "image":"src/assets/p3.webp",
+        "body":"Discover the strength of Ashwagandha+ Immune to help support your immune system. Ashwagandha+ Immune features the adaptogenic power of Ashwagandha, combined with Elderberry, Zinc and Vitamin C. It's formulated to help support your immune function year-round, so you can enjoy balance and wellness.*",
+        "Use":"Adults take 2 capsules once daily."
+    },
+    {
+        "id": 4,
+        "title": "Ashwagandha+ Relax",
+        "price": 25.99,
+        "image":"src/assets/p4.webp",
+        "body":"Discover the soothing strength of Ashwagandha+ Relax to help you rest and recharge.*",
+        "Use":"Adults take 2 capsules once daily."
+    },
+    {
+        "id": 5,
+        "title": "Bamboo & Sea Salt Whitening Antiplaque Toothpaste",
+        "price": 6.99,
+        "image":"src/assets/p5.webp",
+        "body":"Get the smile you’ve been looking for with gentle Bamboo, which is famous for its strong fibers and silica, and purified Sea Salt for a clean, fresh mouth and healthy-looking gums.",
+        "Use":"Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision."
+    },
+    {
+        "id": 6,
+        "title": "Berberine",
+        "price": 29.99,
+        "image":"src/assets/p6.webp",
+        "body":"Indian Barberry was traditionally celebrated for its bright yellow coloring and for supporting a wide array of benefits related to comfort and wellness. With 1000 mg of Berberine HCL sourced from Barberry root in each 2-capsule serving, Himalaya Berberine is an easy way to add a bright new bit of herbal heritage to your daily wellness routine.*",
+        "Use":"Adults take 2 capsules once per day with meals."
+    },
+    {
+        "id": 7,
+        "title": "Body Bar: Purifying (Neem & Turmeric)",
+        "price": 5.49,
+        "image":"src/assets/p7.webp",
+        "body":"Himalaya Botanique Purifying Neem & Turmeric Body Bar is a handcrafted combination of pure herbs and saponified essential oils that gently cleanse and moisturize. History’s original cleansing and detox plant, Neem, cleans and purifies your skin, while comforting turmeric reawakens tired skin leaving it invigorated and healthy-looking. This Neem & Turmeric bar is ideal for a relaxing evening bath or a warm, awakening shower.  ",
+        "Use":"Work into a rich, moisturizing lather. Rinse thoroughly."
+    },
+    {
+        "id": 8,
+        "title": "Body Bar: Refreshing (Lavender & Rosemary)",
+        "price": 5.49,
+        "image":"src/assets/p8.webp",
+        "body":"Calm your senses and rejuvenate your spirit with Himalaya Botanique's Lavender & Rosemary Body Bar. Rosemary awakens the senses and Lavendar leaves your skin feeling relaxed and clean. Gentle oils from Coconut and Cacao Butter hydrate and nourish your skin. Unlike common soaps, our bars use plant-based ingredients and saponified emollient oils to gently cleanse and moisturize.",
+        "Use":"Work into a rich, moisturizing lather. Rinse thoroughly."
+    },
+    {
+        "id": 9,
+        "title": "Boswellia",
+        "price": 17.99,
+        "image":"src/assets/p9.webp",
+        "body":"The crystalized resin from the Indian Frankincense tree known as Boswellia is famous throughout herbal history for supporting muscle relaxation and normal joint function to promote flexibility, movement and range of motion.*",
+        "Use":"Adults take 2 capsules twice daily with food"
+    },
+    {
+        "id": 10,
+        "title": "Charcoal & Black Seed Oil Whitening Antiplaque Toothpaste",
+        "price": 6.99,
+        "image":"src/assets/p10.webp",
+        "body":"Let the powerful whitening action of Charcoal (derived from Coconut Shell Powder) and the famous cleansing ability of Black Seed Oil leave your mouth feeling fresher and brighter than ever.",
+        "Use":"Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision."
+    },
+    {
+        "id": 11,
+        "title": "Chest Balm P.M.",
+        "price": 9.99,
+        "image":"src/assets/p11.webp",
+        "body":"Need something warm to relax and comfort you? Himalaya Chest Balm PM surrounds you with the welcoming respite of Turmeric and Holy Basil, while Eucalyptus vapors softly soothe you. Light and gentle oils leave soothing and moisturizing properties behind.",
+        "Use":"Apply under the nose, to the forehead and to the chest as needed."
+    },
+    {
+        "id": 12,
+        "title": "Chyavanprash",
+        "price": 17.99,
+        "image":"src/assets/p12.webp",
+        "body":"Chyavanprash has been used for centuries as an Ayurvedic superfood for energy, strength, vitality, immunity and good digestion. Himalaya Chyavanprash is an easy-to-take, convenient once-a-day vegetarian capsule.*",
+        "Use":"Adults take 1 capsule per day before food"
+    },
+    {
+        "id": 13,
+        "title": "Adults take 1 capsule per day before food",
+        "price": 25.49,
+        "image":"src/assets/p13.webp",
+        "body":"If you're seeking gentle, reliable colon cleansing and relief from occasional constipation, without the purging and cramping of other herbs you’ve tried, Himalaya’s ComfortCleanse with no Senna and no Cascara is safe, effective, and provides non-habit-forming support.",
+        "Use":"Adults take 2 capsules before bedtime"
+    },
+
+    {
+        "id": 14,
+        "title": "Curcumin Complete™",
+        "price": 22.99,
+        "image":"src/assets/p1.webp",
+        "body":"Try Curcumin Complete to promote range of motion and comfortable movement, and to assist your body in its own natural mechanisms that affect your joints.*",
+        "Use":"Adults take 1 capsule twice daily before meals."
+    },
+    {
+        "id": 15,
+        "title": "DermaCare®",
+        "price": 26.49,
+        "image":"src/assets/p15.webp",
+        "body":"Himalaya DermaCare supports beautiful skin by promoting cellular health and immune system wellness to address redness, sensitive skin, and good detox and digestion, which helps address occasional acne, bringing beauty from the inside-out.*",
+        "Use":"Adults take 2 capsules twice daily with meals"
+    },
+    {
+        "id": 16,
+        "title": "Face Scrub: Exfoliating (Walnut & Wood Apple)",
+        "price": 9.99,
+        "image":"src/assets/p16.webp",
+        "body":"Himalaya Walnut & Wood Apple Face Scrub deep cleans with moisture for pure, smooth & healthy-looking skin, with no dry feeling after you’re done. English Walnut invigorates and exfoliates, while Wood Apple cleans pores and removes impurities. Plant-based ingredients balance the skin with soothing scents and comforting cleanliness.",
+        "Use":"Moisten face and massage all over, avoiding the delicate eye area. Rinse and pat dry. Not recommended for acne-prone skin."
+    },
+    {
+        "id": 17,
+        "title": "Face Wash: Balancing (Neem & Turmeric)",
+        "price": 9.99,
+        "image":"src/assets/p17.webp",
+        "body":"Himalaya Botanique Neem and Turmeric Face Wash brings balance back to your daily cleansing, with gentle, deep-cleaning ingredients. Neem cleans oily skin and helps reduce occasional acne. Turmeric supports clear, healthy-looking skin. Extracts from Vitamin E and Coconut Oil leave your skin feeling soft and moisturized.",
+        "Use":"Moisten face and massage all over, avoiding the delicate eye area. Rinse and pat dry."
+    },
+    {
+        "id": 18,
+        "title": "Face Wash: Hydrating",
+        "price": 9.99,
+        "image":"src/assets/p18.webp",
+        "body":"Why put up with overly-drying soaps and cleansers? Treat your skin to radiant, luxurious and lather-rich Himalaya Botanique Hydrating Face Wash. Aloe Vera helps bring out your skin’s natural moisture, Lavender Oil adds calming warmth to the skin and supports suppleness, and a touch of Honey nourishes and moisturizes your face, leaving your skin feeling hydrated, not dry, after you wash.",
+        "Use":"Moisten face and massage all over, avoiding the delicate eye area. Rinse and pat dry."
+    },
+    {
+        "id": 19,
+        "title": "Face Wash: Invigorating",
+        "price": 9.99,
+        "image":"src/assets/p19.webp",
+        "body":"Give your skin a healthy-looking glow every day with Himalaya Botanique Invigorating Face Wash. Extracts of Cinnamon Bark awaken and invigorate your face for a fresh feeling, Lemon Peel uplifts tired dull skin, and a touch of Honey nourishes and moisturizes your face, leaving your skin feel soothed, not dry, after you wash.",
+        "Use":"Moisten face and massage all over, avoiding the delicate eye area. Rinse and pat dry."
+    },
+    {
+        "id": 20,
+        "title": "FlorAvani®",
+        "price": 47.49,
+        "image":"src/assets/p20.webp",
+        "body":"FlorAvani is the plant-based alternative to probiotics, and it works in ways that probiotics can't. Instead of simply trying to add new strains of bacteria to your intestines, FlorAvani feeds and balances the flora already inside your gut.",
+        "Use":"Adults take 1 capsule three times a day after meals"
+    },
+
+    {
+        "id": 21,
+        "title": "GlucoCare®",
+        "price": 29.49,
+        "image":"src/assets/p21.webp",
+        "body":"GlucoCare contains plant-based ingredients used for centuries in Ayurveda for supporting blood sugar levels already within normal range. It also provides support to the pancreas beta cells that store and release sugar.*",
+        "Use":"Adults take 2 capsules twice daily before meals"
+    },
+    {
+        "id": 22,
+        "title": "Guggul",
+        "price": 18.99,
+        "image":"src/assets/p22.webp",
+        "body":"Not only is Guggul famous throughout history for toning digestion and supporting the liver and immune system, this dried resin extract from the Mukul Myrrh tree, with its well-known guggulsterones, also supports your cholesterol levels, with particular attention to HDL and LDL cholesterol already within the normal range.*",
+        "Use":"Adults take 2 capsules twice daily after food"
+    },
+    {
+        "id": 23,
+        "title": "HeartCare®",
+        "price": 27.49,
+        "image":"src/assets/p23.webp",
+        "body":"Many cultures consider the heart to be the center of physical and emotional wellness. Himalaya HeartCare is clinically studied to support HDL and LDL cholesterol levels already within normal range, and blood pressure levels already within normal range.*",
+        "Use":"Adults take 2 capsules twice daily with meals"
+    },
+    {
+        "id": 24,
+        "title": "Hello Alert Mind",
+        "price": 25.99,
+        "image":"src/assets/p24.webp",
+        "body":"For energy, focus and attention, discover the comprehensive clarity of Himalaya Alert Mind. Just two capsules once a day include history's timeless energizer, Ashwagandha, along with Vitamin B6 and B12 for additional energy, and mind-specific ingredients like Bacopa, L-Theanine, Gotu Kola and Saffron. Say goodbye brain fog, and Hello Alert Mind!*",
+        "Use":"Adults take 2 capsules once daily."
+    },
+    {
+        "id": 25,
+        "title": "Hello Calm Mind",
+        "price": 25.99,
+        "image":"src/assets/p25.webp",
+        "body":"Because days are so much easier with fewer racing thoughts, Himalaya Calm Mind is formulated to help you concentrate and be calm as you navigate through your day.*",
+        "Use":"Adults take 2 capsules once daily."
+    },
+    {
+        "id": 26,
+        "title": "Hello Energy®",
+        "price": 25.99,
+        "image":"src/assets/p26.webp",
+        "body":"Who couldn't use a little extra help to boost energy throughout their day? Say goodbye to burnout and say hello to achieving your daily tasks without having to use stimulants like caffeine that tax your adrenals.*",
+        "Use":"Adults take 1 capsule twice a day after food."
+    },{
+        "id": 27,
+        "title": "Hello Joy®",
+        "price": 25.99,
+        "image":"src/assets/p27.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 28,
+        "title": "Hello Peace®",
+        "price": 25.99,
+        "image":"src/assets/p28.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 29,
+        "title": "Hello ZZZs",
+        "price": 25.99,
+        "image":"src/assets/p29.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 30,
+        "title": "Holy Basil",
+        "price": 15.49,
+        "image":"src/assets/p30.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 31,
+        "title": "ImmunoCare®",
+        "price": 27.49,
+        "image":"src/assets/p31.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 32,
+        "title": "JointCare®",
+        "price": 36.49,
+        "image":"src/assets/p32.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 33,
+        "title": "Kids Toothpaste - Bubble Gum",
+        "price": 5.99,
+        "image":"src/assets/p33.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 34,
+        "title": "Kids Toothpaste - Cool Mint",
+        "price": 5.99,
+        "image":"src/assets/p34.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 35,
+        "title": "Kids Toothpaste - Orange",
+        "price": 5.99,
+        "image":"src/assets/p35.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 36,
+        "title": "Koflet Lozenges®",
+        "price": 5.99,
+        "image":"src/assets/p1.webp",
+        "body":"Ashwagandha has been usd for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 37,
+        "title": "Koflet Lozenges® - Orange Cardamom",
+        "price": 5.99,
+        "image":"src/assets/p37.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 38,
+        "title": "Koflet Lozenges® - Vanilla Chai",
+        "price": 5.99,
+        "image":"src/assets/p38.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 39,
+        "title": "LeanCare®",
+        "price": 31.99,
+        "image":"src/assets/p39.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 40,
+        "title": "LiverCare®",
+        "price": 18.99,
+        "image":"src/assets/p40.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 41,
+        "title": "MenoCare®",
+        "price": 31.99,
+        "image":"src/assets/p41.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 42,
+        "title": "MenstriCare®",
+        "price": 36.49,
+        "image":"src/assets/p42.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 43,
+        "title": "MindCare®",
+        "price": 26.99,
+        "image":"src/assets/p43.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 44,
+        "title": "Moringa",
+        "price": 15.99,
+        "image":"src/assets/p44.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 45,
+        "title": "Neem & Pomegranate Original Toothpaste",
+        "price": 6.99,
+        "image":"src/assets/p45.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 46,
+        "title": "Organic Amla",
+        "price": 21.99,
+        "image":"src/assets/p46.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 47,
+        "title": "Organic Arjuna",
+        "price": 21.99,
+        "image":"src/assets/p47.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 48,
+        "title": "Organic Ashwagandha",
+        "price": 15.99,
+        "image":"src/assets/p48.webp",
+        "body":"Ashwagandha has been used for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract provides a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 49,
+        "title": "Organic Ashwagandha Root Powder",
+        "price": 18.49,
+        "image":"src/assets/p49.webp",
+        "body":"Ashwagandha has been  for centuries for stress and energy. Himalaya’s Organic Ashwagandha Gummies made with clinically-studied KSM-66 Ashwagandha root extract proes a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 50,
+        "title": "Organic Bacopa",
+        "price": 19.99,
+        "image":"src/assets/p50.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 51,
+        "title": "Organic Bitter Melon",
+        "price": 14.49,
+        "image":"src/assets/p51.webp",
+        "body":"Ashwagandha has beens a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 52,
+        "title": "Organic Garcinia",
+        "price": 21.99,
+        "image":"src/assets/p52.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 53,
+        "title": "Organic Garlic",
+        "price": 19.99,
+        "image":"src/assets/p53.webp",
+        "body":"Ashwagandha has been s a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 54,
+        "title": "Organic Ginger",
+        "price": 18.99,
+        "image":"src/assets/p54.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 55,
+        "title": "Organic Gotu Kola",
+        "price": 19.99,
+        "image":"src/assets/p55.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },
+    {
+        "id": 56,
+        "title": "Organic Guduchi",
+        "price": 17.99,
+        "image":"src/assets/p56.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 57,
+        "title": "Organic Gymnema",
+        "price": 16.49,
+        "image":"src/assets/p57.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 58,
+        "title": "Organic Licorice",
+        "price": 17.99,
+        "image":"src/assets/p58.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 59,
+        "title": "Organic Mucuna",
+        "price": 21.99,
+        "image":"src/assets/p59.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 60,
+        "title": "Organic Neem",
+        "price": 19.99,
+        "image":"src/assets/p60.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 61,
+        "title": "Organic Psyllium Husk Powder",
+        "price": 28.34,
+        "image":"src/assets/p61.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 62,
+        "title": "Organic Psyllium Whole Husk",
+        "price": 17.99,
+        "image":"src/assets/p62.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 63,
+        "title": "Organic Shatavari",
+        "price": 21.99,
+        "image":"src/assets/p63.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 64,
+        "title": "Organic Tribulus",
+        "price": 29.99,
+        "image":"src/assets/p64.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 65,
+        "title": "Organic Trikatu",
+        "price": 18.99,
+        "image":"src/assets/p65.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 66,
+        "title": "Organic Triphala",
+        "price": 12.99,
+        "image":"src/assets/p66.webp",
+        "body":"Ashwagandha has been  a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 67,
+        "title": "PartySmart® 10-Count",
+        "price": 25.49,
+        "image":"src/assets/p67.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 68,
+        "title": "PartySmart® 12-Count",
+        "price": 26.49,
+        "image":"src/assets/p68.webp",
+        "body":"Ashwagandha has been s a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 69,
+        "title": "PartySmart® 6-Count",
+        "price": 14.99,
+        "image":"src/assets/p69.webp",
+        "body":"Ashwagandha has been s a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 70,
+        "title": "PartySmart® Gummies 10-Count",
+        "price": 15.99,
+        "image":"src/assets/p70.webp",
+        "body":"Ashwagandha has been  a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 71,
+        "title": "RespiCare®",
+        "price": 30.99,
+        "image":"src/assets/p71.webp",
+        "body":"Ashwagandha has been s a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 72,
+        "title": "Simply Cinnamon Complete Care Toothpastem",
+        "price": 6.99,
+        "image":"src/assets/p72.webp",
+        "body":"Ashwagandha has been  a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 73,
+        "title": "Simply Mint Complete Care Toothpaste",
+        "price": 6.99,
+        "image":"src/assets/p73.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 74,
+        "title": "Simply Mint Whitening Toothpaste",
+        "price": 6.99,
+        "image":"src/assets/p74.webp",
+        "body":"Ashwagandha has been s a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 75,
+        "title": "Simply Peppermint Complete Care Toothpaste",
+        "price": 6.99,
+        "image":"src/assets/p75.webp",
+        "body":"Ashwagandha has been renals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 76,
+        "title": "Simply Peppermint Whitening Toothpaste",
+        "price": 6.99,
+        "image":"src/assets/p76.webp",
+        "body":"Ashwagandha has been renals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 77,
+        "title": "Simply Spearmint Complete Care Toothpaste",
+        "price": 6.99,
+        "image":"src/assets/p77.webp",
+        "body":"Ashwagandha has been s a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 78,
+        "title": "StressCare®",
+        "price": 19.99,
+        "image":"src/assets/p78.webp",
+        "body":"Ashwagandha has beens a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 79,
+        "title": "Turmeric & Coconut Oil Whitening Antiplaque Toothpaste",
+        "price": 6.99,
+        "image":"src/assets/p79.webp",
+        "body":"Ashwagandha has been  a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 80,
+        "title": "Turmeric 95TM",
+        "price": 21.99,
+        "image":"src/assets/p80.webp",
+        "body":"Ashwagandha has been s a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 81,
+        "title": "Turmeric Soft Chews",
+        "price": 16.49,
+        "image":"src/assets/p81.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 82,
+        "title": "UriCare®",
+        "price": 24.49,
+        "image":"src/assets/p82.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 83,
+        "title": "VeinCare®",
+        "price": 25.49,
+        "image":"src/assets/p83.webp",
+        "body":"Ashwagandha has been es a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    },{
+        "id": 84,
+        "title": "VigorCare® For Men",
+        "price": 30.99,
+        "image":"src/assets/p84.webp",
+        "body":"Ashwagandha has been s a delicious daily source of energy and stress relief by supporting your adrenals and balancing cortisol.* These vegan gummies have a delicious blackberry flavor and are made without added artificial flavors!",
+        "Use":"Adults take 2 gummies, twice daily."
+    }
+
+]}
